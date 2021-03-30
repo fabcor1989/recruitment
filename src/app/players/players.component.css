@@ -1,0 +1,38 @@
+.ancho {
+    width: 80%;
+}
+mat-card{
+    border-radius: 10px;
+}
+
+mat-icon#player1{
+    color: red;
+    font-size: 45px;
+    margin-inline-end: 9px;
+}
+
+mat-icon#player2{
+    color: rgb(255, 255, 0);
+    font-size: 45px;
+    margin-inline-end: 9px;
+}
+
+.margTop {
+    margin-top: 10px;
+}
+
+.mat-button-toggle-checked {
+    background-color: #3f51b5;
+    color: rgb(255, 255, 255);
+}
+
+.mat-card {
+    background: rgba(255, 255, 255, 0.692);
+}
+.row{
+    font-size: 23px;
+}
+mat-icom{
+    font-size: 23px;
+    border-radius: 10px;
+}

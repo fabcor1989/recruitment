@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Changa', sans-serif;
+    font-weight: 700;
+}
+.mat-red {
+    border-top: solid 30px red;
+    padding: 30px;
+}
+
+.mat-yellow {
+    border-top: solid 30px yellow;
+    padding: 30px;
+}
